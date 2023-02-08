@@ -38,6 +38,6 @@ Moroccan Math Olympiad contestant
 - Algos & Data Structures
 - Blogging
 
-💬 *Reach me by email or LinkedIn!* farid.mohieddine3@gmail.com | www.linkedin.com/in/matthewdukepan
+💬 *Reach me by email or LinkedIn!* farid.mohieddine3@gmail.com | [https://www.linkedin.com/in/mohieddine-farid-b1482325b/]
 
 📫 *Visit my website that is severely outdated:* ...
