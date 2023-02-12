@@ -39,6 +39,6 @@ Moroccan Math Olympiad contestant
 - Algos & Data Structures
 - Blogging
 
-💬 *Reach me by email or LinkedIn!* farid.mohieddine3@gmail.com | [https://www.linkedin.com/in/mohieddine-farid-b1482325b/]
+💬 *Reach me by email or LinkedIn!* farid.mohieddine3@gmail.com | [linkedin](https://www.linkedin.com/in/mohieddine-farid-b1482325b/)
 
-📫 *Visit my website that is severely outdated:*[https://mohifarid.net/]
+📫 *Visit my website that is severely outdated:* [my website (pls)](https://mohifarid.net/)
