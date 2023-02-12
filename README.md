@@ -32,12 +32,13 @@ Moroccan Math Olympiad contestant
 ⚡ No prior Work experience (yet)
 
 🌱 Interests:
--  Football & Leo Messi 🇦🇷.
+-  Football & Leo Messi 🇦.
 - Web development.
+- Mathematics Olympiads
 - Software Engineering
 - Algos & Data Structures
 - Blogging
 
 💬 *Reach me by email or LinkedIn!* farid.mohieddine3@gmail.com | [https://www.linkedin.com/in/mohieddine-farid-b1482325b/]
 
-📫 *Visit my website that is severely outdated:* ...
+📫 *Visit my website that is severely outdated:*[https://mohifarid.net/]
