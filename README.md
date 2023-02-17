@@ -32,7 +32,6 @@ Moroccan Math Olympiad contestant
 ⚡ No prior Work experience (yet)
 
 🌱 Interests:
--  Football & Leo Messi 🇦.
 - Web development.
 - Mathematics Olympiads
 - Software Engineering
