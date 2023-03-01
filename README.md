@@ -27,8 +27,7 @@ Moroccan Math Olympiad contestant
 💻 Selected projects | work:
   - Personal portfolio
   - Chess game Application with JavaFX
-  - Miscellaneous notes & tutorials from various topics
-
+  - Miscellaneous notes & tutorials 
 ⚡ No prior Work experience (yet)
 
 🌱 Interests:
