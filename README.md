@@ -22,6 +22,7 @@ Moroccan Math Olympiad contestant
 - 2 Silver medals: Arab and African MO [Remote. Rabat, Dec 2020 | Mai 2021]
 - Non official participation in the Francophone MO [Remote. Rabat, April 2021]
 - Top 10 in the prestigious Asian Pacific MO [Remote. Rabat, March 2021] 
+- Top 7 in the Moroccan National MO [Rabat, June 2021]
 - Fully Funded Scholarship at Mohammed VI Polytechnical University [Benguerir, Summer 2021]
 
 💻 Selected projects | work:
