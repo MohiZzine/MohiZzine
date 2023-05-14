@@ -29,10 +29,11 @@ Moroccan Math Olympiad contestant
   - Personal portfolio
   - Chess game Application with JavaFX
   - Miscellaneous notes & tutorials 
+  - Ecommerce shopping website
+  - Online Food App with React
 ⚡ No prior Work experience (yet)
 
 🌱 Interests:
-- Web development.
 - Mathematics Olympiads
 - Software Engineering
 - Algos & Data Structures
