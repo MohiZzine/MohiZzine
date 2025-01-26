@@ -95,16 +95,6 @@ const mohieddine: Developer = {
   <img src="https://github-profile-trophy.vercel.app/?username=MohiZzine&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
 </div>
 
-## 🐍 Contribution Journey
-
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohiZzine/MohiZzine/main/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohiZzine/MohiZzine/main/dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohiZzine/MohiZzine/main/dist/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
